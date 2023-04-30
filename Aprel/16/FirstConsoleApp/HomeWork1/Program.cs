@@ -10,11 +10,19 @@ namespace HomeWork1
     {
         static void Main(string[] args)
         {
-            var firstName = "Rashad";
-            var lastName = "Hasanli";
-            var adress = "Baku";
 
+            Console.Write("Adinizi yazin: ");
+            var firstName = Console.ReadLine();
+            Console.Write("Soyadinizi yazin: ");
+            var lastName = Console.ReadLine();
+            Console.Write("Adresinizi yazin: ");
+            var adress = Console.ReadLine();
+
+            
+            
             Console.WriteLine(firstName + " " + lastName + " " + adress);
+            Console.ReadLine();
+
         }
     }
 }
