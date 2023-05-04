@@ -47,7 +47,7 @@ namespace Homework
             //int vurma = say1 * say2 * say3;
             //int bolme = say1 / say2 / say3;
 
-            //Console.WriteLine("Toplama Netice: " +  say1 + " + " + say2 + " + " + say3 + " = " + toplama);
+            //Console.WriteLine("Toplama Netice: " + say1 + " + " + say2 + " + " + say3 + " = " + toplama);
             //Console.WriteLine("Cixma Netice: " + say1 + " - " + say2 + " - " + say3 + " = " + cixma);
             //Console.WriteLine("Vurma Netice: " + say1 + " * " + say2 + " * " + say3 + " = " + vurma);
             //Console.WriteLine("Bolme Netice: " + say1 + " / " + say2 + " / " + say3 + " = " + bolme);
@@ -59,31 +59,31 @@ namespace Homework
 
             #region Homework3
 
-            //int reqem1 = Convert.ToInt32(Console.ReadLine());
-            //int reqem2 = Convert.ToInt32(Console.ReadLine());
-            //int reqem3 = Convert.ToInt32(Console.ReadLine());
-            //int reqem4 = Convert.ToInt32(Console.ReadLine());
-            //int reqem5 = Convert.ToInt32(Console.ReadLine());
-            //int reqem6 = Convert.ToInt32(Console.ReadLine());
-            //int reqem7 = Convert.ToInt32(Console.ReadLine());
-            //int reqem8 = Convert.ToInt32(Console.ReadLine());
-            //int reqem9 = Convert.ToInt32(Console.ReadLine());
-            //int reqem10 = Convert.ToInt32(Console.ReadLine());
+            int reqem1 = Convert.ToInt32(Console.ReadLine());
+            int reqem2 = Convert.ToInt32(Console.ReadLine());
+            int reqem3 = Convert.ToInt32(Console.ReadLine());
+            int reqem4 = Convert.ToInt32(Console.ReadLine());
+            int reqem5 = Convert.ToInt32(Console.ReadLine());
+            int reqem6 = Convert.ToInt32(Console.ReadLine());
+            int reqem7 = Convert.ToInt32(Console.ReadLine());
+            int reqem8 = Convert.ToInt32(Console.ReadLine());
+            int reqem9 = Convert.ToInt32(Console.ReadLine());
+            int reqem10 = Convert.ToInt32(Console.ReadLine());
 
-            //int toplama = reqem1 + reqem2 + reqem3 + reqem4 + reqem5 + reqem6 + reqem7 + reqem8 + reqem9 + reqem10;
-            //toplama++;
-            //int cixma = reqem1 - reqem2 - reqem3 - reqem4 - reqem5 - reqem6 - reqem7 - reqem8 - reqem9 - reqem10;
-            //cixma--;
-            //int vurma = reqem1 * reqem2 * reqem3 * reqem4 * reqem5 * reqem6 * reqem7 * reqem8 * reqem9 * reqem10;
-            //vurma *= 20;
-            //int bolme = reqem1 / reqem2 / reqem3 / reqem4 / reqem5 / reqem6 / reqem7 / reqem8 / reqem9 / reqem10;
-            //bolme /= 20;
+            int toplama = reqem1 + reqem2 + reqem3 + reqem4 + reqem5 + reqem6 + reqem7 + reqem8 + reqem9 + reqem10;
+            toplama++;
+            int cixma = reqem1 - reqem2 - reqem3 - reqem4 - reqem5 - reqem6 - reqem7 - reqem8 - reqem9 - reqem10;
+            cixma--;
+            int vurma = reqem1 * reqem2 * reqem3 * reqem4 * reqem5 * reqem6 * reqem7 * reqem8 * reqem9 * reqem10;
+            vurma *= 20;
+            int bolme = reqem1 / reqem2 / reqem3 / reqem4 / reqem5 / reqem6 / reqem7 / reqem8 / reqem9 / reqem10;
+            bolme /= 20;
 
 
-            //Console.WriteLine("Toplama netice: " + toplama);
-            //Console.WriteLine("Cixma netice: " + cixma);
-            //Console.WriteLine("Vurma netice: " + vurma);
-            //Console.WriteLine("Bolme netice: " + bolme);
+            Console.WriteLine("Toplama netice: " + toplama);
+            Console.WriteLine("Cixma netice: " + cixma);
+            Console.WriteLine("Vurma netice: " + vurma);
+            Console.WriteLine("Bolme netice: " + bolme);
 
 
             //Console.ReadLine();
