@@ -34,7 +34,7 @@ namespace Homework
 
             #region Homework2
 
-            Console.Clear();
+            //Console.Clear();
 
             //Homework 2: İstifadəçidən bir rəqəm alın. While döngüsüylə istifadəçinin daxil etdiyi rəqəmdən 0 - a doğru geriyə sayın.
 
@@ -59,7 +59,7 @@ namespace Homework
 
             #region Homework3
 
-            Console.Clear();
+            //Console.Clear();
             /* Homework 3: Belə bir vurma cədvəli çıxardın ekrana. İp ucu verim, Console.Write("1*2=2\t"); yazacaqsız.Orda \t sizə boşluqları
                        təmin edəcək.Logic hissəsini isə özünüz fikirləşin.
                 1 * 1 = 1   1 * 2 = 2   1 * 3 = 3   1 * 4 = 4   1 * 5 = 5   1 * 6 = 6   1 * 7 = 7   1 * 8 = 8   1 * 9 = 9
@@ -87,7 +87,7 @@ namespace Homework
 
             #region Homework4
 
-            Console.Clear();
+            //Console.Clear();
             /*Homework 3: App'ın işləmə prinsipi: İlk öncə istifadəçidən "Texmin oyunu ucun en yuksek deyeri daxil edin: " yazısı ilə bir rəqəm
                          alınmalıdır.Sonra 1 ilə bu rəqəm arasında random bir rəqəm generate edilməlidir və istifadəçidən generate olunan rəqəmi
                          tapmağı istənməlidir. "1. Cəhdiniz! Zəhmət olmasa rəqəmi təxmin edin: " mesajı ilə istifadəçidən bir rəqəm soruşulur. 
@@ -114,7 +114,7 @@ namespace Homework
             //        break;
             //    }
             //}
-
+            //Console.ReadLine();
             #endregion
 
         }
