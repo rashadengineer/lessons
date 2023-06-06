@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33423.255
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methids_Part2", "Methids_Part2\Methids_Part2.csproj", "{B607E232-3F4B-49B6-AF74-F85EEE2300D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework", "Homework\Homework.csproj", "{718E3C26-AA13-40A1-AFD1-E5328F7E6E22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B607E232-3F4B-49B6-AF74-F85EEE2300D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B607E232-3F4B-49B6-AF74-F85EEE2300D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B607E232-3F4B-49B6-AF74-F85EEE2300D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B607E232-3F4B-49B6-AF74-F85EEE2300D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{718E3C26-AA13-40A1-AFD1-E5328F7E6E22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{718E3C26-AA13-40A1-AFD1-E5328F7E6E22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{718E3C26-AA13-40A1-AFD1-E5328F7E6E22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{718E3C26-AA13-40A1-AFD1-E5328F7E6E22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B774E8E-81D6-4FB6-B940-A880D57787A9}
+	EndGlobalSection
+EndGlobal
